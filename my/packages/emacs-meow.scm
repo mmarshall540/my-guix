@@ -1,4 +1,4 @@
-(use-modules (gnu packages emacs-xyz))
+(use-modules (guix packages) (gnu packages emacs-xyz))
 
 ;; Custom package definition to take advantage of recent bug fixes.
 (define emacs-meow-1.4.3
