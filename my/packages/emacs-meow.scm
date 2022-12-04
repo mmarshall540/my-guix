@@ -1,9 +1,9 @@
 (use-modules (gnu packages emacs-xyz))
 
 ;; Custom package definition to take advantage of recent bug fixes.
-(define emacs-meow-1.4.2.da8143e
+(define emacs-meow-1.4.2.1
   (inherit emacs-meow)
-  (version "1.4.2.da8143e")
+  (version "1.4.2.1")
   (source
    (origin
     (method git-fetch)
