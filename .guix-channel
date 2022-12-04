@@ -5,4 +5,4 @@
  (dependencies
   (channel
    (name guix)
-   (url "https://git.savannah.gnu.org/cgit/guix.git/"))))
+   (url "https://git.savannah.gnu.org/git/guix.git/"))))
