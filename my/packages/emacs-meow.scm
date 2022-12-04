@@ -3,7 +3,7 @@
 ;; Custom package definition to take advantage of recent bug fixes.
 (define emacs-meow-1.4.2.1
   (inherit emacs-meow)
-  (version "1.4.2.1")
+  (version "1.4.2")
   (source
    (origin
     (method git-fetch)
