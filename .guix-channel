@@ -2,4 +2,7 @@
 
 (channel
  (version 0)
- (url "https://github.com/mmarshall540/my-guix"))
+ (dependencies
+  (channel
+   (name guix)
+   (url "https://git.savannah.gnu.org/cgit/guix.git/"))))
